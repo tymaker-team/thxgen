@@ -12,6 +12,8 @@ The new _Unbelievable Friend_ update is out now! Get it [here](https://github.co
 
 The _Enjoyment_ update is coming out the 11th! Get it on the releases page!
 
+The _Enjoyment_ pre-release is out now! Get it [here](https://github.com/Anti-Apple4life/tymaker-team/releases/tag/enjoyment)!
+
 # Main Differences
 This is written in JavaScript compared to [Anti-Apple4life's tymaker](https://github.com/Anti-Apple4life/tymaker), which is written in C#. This also utilizes popup windows instead of the console.
 # Where to get it
