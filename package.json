@@ -1,6 +1,6 @@
 {
   "name": "@tymaker-team/thxgen",
-  "version": "2022.5.11-node",
+  "version": "2022.5.18-node",
   "description": "Generates thank-you notes from information",
   "main": "script.js",
   "scripts": {
