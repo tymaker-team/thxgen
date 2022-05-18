@@ -1,4 +1,24 @@
 {
+  "name": "@tymaker-team/thxgen",
+  "version": "2022.5.11-node",
+  "description": "Generates thank-you notes from information",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tymaker-team/thxgen.git#nodejs"
+  },
+  "keywords": [
+    "thankyou"
+  ],
+  "author": "tymaker-team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tymaker-team/thxgen/issues"
+  },
+  "homepage": "https://github.com/tymaker-team/thxgen/tree/nodejs#readme",
   "dependencies": {
     "prompt-sync": "^4.2.0"
   }
