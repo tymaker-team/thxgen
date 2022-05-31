@@ -3,6 +3,7 @@
 ![mitlicense](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 [![releases6](https://img.shields.io/badge/releases-6-red?style=for-the-badge)](https://github.com/tymaker-team/thxgen/releases)
 ![maintenance](https://img.shields.io/maintenance/yes/2022?style=for-the-badge)
+![quality](https://img.shields.io/badge/tymaker%20quality-thxgen-d4dfbb?style=for-the-badge)
 
 # thxgen
 thxgen is a JavaScript clone/rewrite of [Anti-Apple4life's tymaker](https://github.com/Anti-Apple4life/tymaker-team) 
