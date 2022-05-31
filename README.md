@@ -1,7 +1,7 @@
 <img src = "https://camo.githubusercontent.com/53b054c1550649b16194f0f496a7e47b85715d5a4994bfe73b41952f1d23d7ef/68747470733a2f2f692e6962622e636f2f516e506d3830312f556e7469746c65642d64726177696e672e706e67" width = "100">
 
 ![mitlicense](https://img.shields.io/badge/license-MIT-green)
-[![releases1](https://img.shields.io/badge/releases-1-red)](https://github.com/tymaker-team/thxgen.r/releases)
+[![releases1](https://img.shields.io/badge/releases-6-red)](https://github.com/tymaker-team/thxgen.r/releases)
 ![maintenance](https://img.shields.io/maintenance/yes/2022)
 
 # thxgen
