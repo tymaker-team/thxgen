@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/tymaker-team/thxgen.git#nodejs"
   },
+  "publishConfig": {
+   "@anti-apple4life:registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "thankyou"
   ],
