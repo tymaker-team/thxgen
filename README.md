@@ -1,3 +1,4 @@
+![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/tymaker-team/thxgen/nodejs?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/tymaker-team/thxgen)
 
 <img src = "https://camo.githubusercontent.com/53b054c1550649b16194f0f496a7e47b85715d5a4994bfe73b41952f1d23d7ef/68747470733a2f2f692e6962622e636f2f516e506d3830312f556e7469746c65642d64726177696e672e706e67" width = "100">
