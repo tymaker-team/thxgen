@@ -7,6 +7,8 @@
 # thxgen
 thxgen is a JavaScript clone/rewrite of [Anti-Apple4life's tymaker](https://github.com/Anti-Apple4life/tymaker-team) 
 
+Please check out [thxgen-c](https://github.com/tymaker-team/thxgen-c)!
+
 By [aarikpokras](https://github.com/aarikpokras), the credit hog.
 
 # Where to get it
