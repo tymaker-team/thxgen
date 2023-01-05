@@ -16,7 +16,7 @@ You can get the latest code on the releases page.
 
 # How to run it
 ![Brackets](https://brackets.io/img/brackets.svg)
-1. Get Brackets.
+1. Get Brackets (or use your web browser).
 2. Unzip the .zip file.
 3. Upload the files.
 4. Press the preview (lightning bolt) button.
